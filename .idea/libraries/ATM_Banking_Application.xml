@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="ATM_Banking_Application">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/dist/ATM_Banking_Application.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
